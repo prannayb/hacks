@@ -1,0 +1,8 @@
+[{
+    "settings": [ "master" ],
+    "game index": {
+        "verbs": ["get"],
+        "path": "/",
+        "call": "game.index"
+    }
+}]
